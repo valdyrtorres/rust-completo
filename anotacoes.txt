@@ -1,0 +1,4 @@
+O comando abaixo já cria um projeto exemplo:
+cargo init
+
+cargo run
